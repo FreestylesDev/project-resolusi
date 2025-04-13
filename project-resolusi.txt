@@ -2,3 +2,5 @@ PROJECT RESOLUSI
 - Konsisten dalam membuat Project
 - Membuat Game Project sesuai keinginan
 - Membuat forum diskusi
+- Membuat Dashboard Admin
+- Kolaborasi dengan Expert Proggramming
